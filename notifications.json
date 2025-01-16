@@ -1,0 +1,14 @@
+[
+  {
+    "icon": "\ud83d\udea8",
+    "message": "CRITICAL: GMRI3 and SMRVID are offline and inactive. Please rectify immediately.",
+    "date": "Jan 16, 2025",
+    "link": "#0"
+  },
+  {
+    "icon": "\ud83d\udd14",
+    "message": "New feature: Dark mode is now available!",
+    "date": "May 5, 2024",
+    "link": "#1"
+  }
+]
